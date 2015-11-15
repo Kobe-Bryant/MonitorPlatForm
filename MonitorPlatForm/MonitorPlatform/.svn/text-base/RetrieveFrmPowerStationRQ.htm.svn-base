@@ -1,0 +1,276 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+        <title>深圳市环境监察支队</title>
+    </head>
+    <body>
+        <table height="100px" align="center" width="740px" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <p align=center><font face="黑体" size="+3">深圳市环境监察支队</font></p>
+                    <p align=center><strong><font face="黑体" size="+3">燃气电厂污染源现场核查记录表</font></strong></p>
+                </td>
+            </tr>
+        </table>
+        <table bordercolor="black" align="center" width="740px" border="1" cellpadding="0" cellspacing="0">
+            <tr>
+                <td height="45px" colspan="2" align="center">被检查单位</td>
+                <td colspan="3">DWMC</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="2" align="center">地址</td>
+                <td colspan="3">DWDZ</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="2" align="center">法人代表（负责人）</td>
+                <td width="15%">LRR</td>
+                <td width="25%" align="center">环保联系人及电话</td>
+                <td width="30%">HBLXR，HBLXRDH</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="2" align="center">检查时间</td>
+                <td height="45px" colspan="3">DCSJ</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="2" align="center">告知当事人有申请回避的权利和配合调查的义务</td>
+                <td height="45px" colspan="3">GZHB</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="2" align="center">执法证件</td>
+                <td height="45px" colspan="3">CSZFZ</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="2" align="center">监管性质</td>
+                <td height="45px" colspan="3">JGXZ</td>
+            </tr>
+            <tr>
+                <td align="center" width="5%" rowspan="20">一、基本信息</td>
+                <td height="45px" align="center">是否有未经环评审批的项目</td>
+                <td height="45px" colspan="3">WJHPXM</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">是否执行环保“三同时”</td>
+                <td height="45px" colspan="3">ZXHBSTS</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">是否有未经环保验收投产情况</td>
+                <td height="45px" colspan="3">WJHPYSTC</td>
+            </tr>
+            <tr>
+                <td align="center" rowspan="3">主要污染控制因子</td>
+                <td height="45px" colspan="3">废水:WRYZ_FS</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="3">废气(mg/m<sup>3</sup>) ：WRYZ_FQ</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="3">噪声:WRYZ_ZS</td>
+            </tr>
+            <tr>
+                <td align="center" rowspan="3">执行标准</td>
+                <td height="45px" colspan="3">废水:ZXBZ_FS</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="3">废气:ZXBZ_FQ</td>
+            </tr>
+            <tr>
+                <td height="45px" colspan="3">噪声:ZXBZ_ZS</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">上季度在线有效性审核是否通过</td>
+                <td height="45px" colspan="3">SHSFTG</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">装机容量</td>
+                <td height="45px" colspan="3">ZJRL（万千瓦）</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">装机台数</td>
+                <td height="45px" colspan="3">ZJTS</td>
+            </tr>
+            <tr>
+                <tr>
+                    <td height="45px" align="center">上月机组燃料总用量</td>
+                    <td height="45px" colspan="3">燃气总用量(SYJZYQZYL)万立方  燃气总计量读数（SYYQZJDS）</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">烟气排放总量</td>
+                    <td height="45px" colspan="3">YQPFZL（万立方）</td>
+                </tr>
+                <tr>
+                    <td align="center" rowspan="4">排污许可证情况</td>
+                    <td align="center" height="45px">有无许可证</td>
+                    <td height="45px" colspan="2">CYPWXK</td>
+                </tr>
+                <tr>
+                    <td align="center" height="45px">是否年审</td>
+                    <td height="45px" colspan="2">CYPWXK2</td>
+                </tr>
+                <tr>
+                    <td align="center" height="45px">是否在有效期内</td>
+                    <td height="45px" colspan="2">CYPWXK3</td>
+                </tr>
+                <tr>
+                    <td align="center" height="45px">是否吊证</td>
+                    <td height="45px" colspan="2">CYPWXK4</td>
+                </tr>
+                <tr>
+                    <td height="30px">机组运转情况</td>
+                    <td height="45px" colspan="3">全部运转</td>
+                </tr>
+                <tr>
+                    <td align="center" rowspan="9">二、上月机组核查情况</td>
+                    <td height="45px" align="center">机组编号</td>
+                    <td height="45px" colspan="3">JZBH</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">机组运行时间（小时）</td>
+                    <td height="45px" colspan="3">JZYXSJ</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">发电量（万度）</td>
+                    <td height="45px" colspan="3">FDL</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">机组运行平均负荷率（%）</td>
+                    <td height="45px" colspan="3">JZFHL</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">机组运行时间、平均负荷率等、发电量是否与排污申报一致</td>
+                    <td height="45px" colspan="3">JZYSBSFYZ</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">燃料用量</td>
+                    <td height="45px" colspan="3">燃气用量（RQYL）万立方</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">烟气排放量（万立方）</td>
+                    <td height="45px" colspan="3">YQPFL</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">废气污染物在线排放平均浓度曲线情况</td>
+                    <td height="45px" colspan="3">氮氧化物  FQNDQXQK</td>
+                </tr>
+                <tr>
+                    <td height="45px" align="center">上月各处理单元关键设备故障维护是否与报告一致</td>
+                    <td height="45px" colspan="3">SGYYSBSFYZ</td>
+                </tr>
+                <tr>
+                    <td align="center" width="5%" rowspan="3">三、现场机组核查情况</td>
+                    <td height="45px" align="center">机组运行平均负荷率（%）</td>
+                    <td colspan="3" height="45px">JZFHL</tr>
+            </tr>
+            <tr>
+                <td height="45px" align="center">烟气在线监测设施运转情况</td>
+                <td colspan="3" height="45px">YQZXJCQK</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">在线废气污染物出口浓度（mg/m3）</td>
+                <td colspan="3" height="45px">氮氧化物(FQCKND)</td>
+            </tr>
+            
+            <tr>
+                <td align="center" rowspan="3">四、工业废水排放情况</td>
+                <td height="45px" align="center">治理设施运转情况</td>
+                <td height="45px" colspan="3">ZLSSYZQK</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">污水排放去向</td>
+                <td height="45px" colspan="3">WSPFQX</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">污水排放量（吨）</td>
+                <td height="45px" colspan="3">WSPFL</td>
+            </tr>
+            <tr>
+                <td align="center" rowspan="2">五、危废情况</td>
+                <td height="45px" align="center">危险废物产生量（吨）</td>
+                <td colspan="3" height="45px">WXFWCSL</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">危险废物转移量（吨）</td>
+                <td colspan="3" height="45px">WXFWZYL</td>
+            </tr>
+            <tr>
+                <td align="center" width="5%" rowspan="2">六、信访情况</td>
+                <td height="45px" align="center">信访情况</td>
+                <td colspan="3" height="45px">XFQK</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">整改情况</td>
+                <td colspan="3" height="45px">ZGQK</td>
+            </tr>
+            <tr>
+                <td align="center" width="5%" rowspan="6">七、其他情况</td>
+                <td height="45px" align="center">静态档案</td>
+                <td colspan="3" height="45px">JTDA</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">动态档案</td>
+                <td colspan="3" height="45px">DTDA</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">排污许可证持有情况</td>
+                <td colspan="3" height="45px">XKZCYQK</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">安全事故应急预案</td>
+                <td colspan="3" height="45px">YJYA</td>
+            </tr>
+            
+            <tr>
+                <td height="45px" align="center">安全事故应急演练</td>
+                <td colspan="3" height="45px">YJYL</td>
+            </tr>
+            <tr>
+                <td height="45px" align="center">环境安全事故应急物资配备事项</td>
+                <td colspan="3" height="45px">YJWZPB</td>
+            </tr>
+            <tr>
+                <td height="400px" colspan="5" align="left" valign="top">八、存在问题汇总<br />CZWTHZ</td>
+            </tr>
+            <tr>
+                <td height="400px" colspan="5" align="left" valign="top">九、核查结论及要求<br />HCJLJYQ</td>
+            </tr>
+            <tr>
+                <td height="60px" colspan="5"><table width="100%" height="100%"  border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td width="30%">现场检查人员：XCJCRY</td>
+                        <td width="45%">执法证号：ZFZH</td>
+                        <td align="center" width="25%"><table width="100%" border=0 align="left" cellpadding=0 cellspacing=0>
+                            <tr>
+                                <td align="right" width="33%">年</td>
+                                <td align="right" width="33%">月</td>
+                                <td align="right" width="33%">日</td>
+                            </tr>
+                        </table></td>
+                    </tr>
+                </table></td>
+            </tr>
+            <tr>
+                <td height="80px" colspan="5">
+                    <table width="100%" height="100%"  border=0 align="left" cellpadding=0 cellspacing=0>
+                        <tr>
+                            <td width="60%" colspan="2">现场负责人或工作人员：</td>
+                            <td width="40%">职务： </td>
+                        </tr>
+                        <tr>
+                            <td width="20%"></td>
+                            <td width="40%">电话：</td>
+                            <td align="left" width="40%" colspan="5">
+                                <table width="100%" height="100%"  border=0 align="left" cellpadding=0 cellspacing=0>
+                                    <tr>
+                                        <td align="right" width="60%">年</td>
+                                        <td align="right" width="20%">月</td>
+                                        <td align="right" width="20%">日</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
+

@@ -1,0 +1,295 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>深圳市环境监察支队</title>
+    </head>
+    <body>
+        <table width="740" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td height="100px">
+                    <p align=center><font face="黑体" size="+2">深圳市环境监察支队</font></p>
+                    <p align=center><strong><font face="黑体" size="+3">污染源现场监察记录表</font></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table width="100%" border="1" align="center" bordercolor="black" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td height="45px" align="center">被检查单位</td>
+                            <td height="45px" colspan="3">DWMC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">地址</td>
+                            <td height="45px" colspan="3">DWDZ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" width="15%" align="center">法人代表（负责人）</td>
+                            <td height="45px" width="15%">DWFZR</td>
+                            <td height="45px" width="35%" align="center">环保联系人及电话</td>
+                            <td height="45px" width="35%">HBLXR，HBLXRDH</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">检查时间</td>
+                            <td height="45px" colspan="3">DCSJ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">执法证件</td>
+                            <td height="45px" colspan="3">CSZFZ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">告知当事人有申请回避的<br>权利和配合调查的义务</td>
+                            <td height="45px" colspan="3">GZHB</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">监管性质</td>
+                            <td height="45px" colspan="3">JGXZ_TEXT</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="7">一、企业基本情况</td>
+                            <td align="center" height="45px">是否有未经环评审批的项目</td>
+                            <td height="45px" colspan="2">SFWJHPXM</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否执行环保“三同时”</td>
+                            <td height="45px" colspan="2">SFZXHBSTS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否有未经环保验收投产情况</td>
+                            <td height="45px" colspan="2">SFWJHPYSTC</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="4" align="center">排污许可证情况</td>
+                            <td height="45px" align="center">是否拥有排污许可证</td>
+                            <td height="45px" colspan="2">PWXKZQK_YW</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否年审</td>
+                            <td height="45px" colspan="2">PWXKZQK_NS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否在有效期内</td>
+                            <td height="45px" colspan="2">PWXKZQK_YXQ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否吊证</td>
+                            <td height="45px" colspan="2">PWXKZQK_DZ</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="24" align="center">二、生产情况</td>
+                            <td height="45px" align="center">车间生产情况</td>
+                            <td height="45px" colspan="2">CJSCQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">治理设施运行情况</td>
+                            <td height="45px" colspan="2">ZLSSYXQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">运行台帐记录情况</td>
+                            <td height="45px" colspan="2">YXTZJLQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">排污管道标识情况</td>
+                            <td height="45px" colspan="2">PWGDBSQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">悬挂操作规程、工艺流程图、安全管理规程</td>
+                            <td height="45px" colspan="2">XGGCQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">悬挂排污口标志牌</td>
+                            <td height="45px" colspan="2">XGPWKBZP</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">收集管网情况</td>
+                            <td height="45px" colspan="2">SJGWQK</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="3" align="center">在线监测设备安装、运行及有效性审核情况</td>
+                            <td height="45px" colspan="2">安装情况:ZXJCSBQK_AZ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">运行情况:ZXJCSBQK_YX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">有效性审核情况:ZXJCSBQK_SH</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" rowspan="13" align="center">在线数据读数况</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">pH:ZXSJ_PH</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">COD:ZXSJ_COD mg/l</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">NH<sub>3</sub>-N:ZXSJ_NH3N mg/l</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">T-Cu: mg/l</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">T-Ni: mg/l </td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">SO<sub>2</sub>: mg/m<sup>3</sup></td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">NO<sub>X</sub>:ZXSJ_NOX mg/m<sup>3</sup></td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">烟尘:ZXSJ_YC mg/m<sup>3</sup></td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">电导率:ZXSJ_DDL μS/cm</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">Cr<sup>6+</sup>:ZXSJ_CR6 mg/l</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">流量计读数:ZXSJ_LLJ m<sup>3</sup>/h</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2">ZXSJ_QT</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">在线数据与监测报告数据是否一致</td>
+                            <td height="45px" colspan="2">ZXYJCSFYZ</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" align="center">三、回用设施运行情况</td>
+                            <td height="45px" align="center">回用情况</td>
+                            <td height="45px" colspan="2">HYSSHYQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">运行情况</td>
+                            <td height="45px" colspan="2">HYSSYXQK</td>
+                        </tr>
+                        <tr>
+                            <td  rowspan="2" align="center">四、危险废物贮存情况</td>
+                            <td  height="45px" align="center">贮存情况</td>
+                            <td  height="45px" colspan="2">FXFWCCQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">转移情况</td>
+                            <td height="45px" colspan="2">FXFWZYQK</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="16">五、现场测试及采样情况</td>
+                            <td rowspan="15" align="center">现场测试情况</td>
+                            <td height="45px" align="center">XCCSQK1_MC</td>
+                            <td height="45px" align="center">XCCSQK2_MC</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">pH:XCCSQK1_PH</td>
+                            <td height="45px">pH:XCCSQK2_PH</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">Cu<sup>2+</sup>:XCCSQK1_CU2</td>
+                            <td height="45px">Cu<sup>2+</sup>:XCCSQK2_CU2</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">Ni<sup>2+</sup>:XCCSQK1_NI</td>
+                            <td height="45px">Ni<sup>2+</sup>:XCCSQK2_NI</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">电导率：XCCSQK1_DDL μS/cm</td>
+                            <td height="45px">电导率：XCCSQK2_DDL μS/cm</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">XCCSQK3_MC</td>
+                            <td height="45px">XCCSQK4_MC</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">pH:XCCSQK3_PH</td>
+                            <td height="45px">pH:XCCSQK4_PH</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">Cu<sup>2+</sup>:XCCSQK3_CU2</td>
+                            <td height="45px">Cu<sup>2+</sup>:XCCSQK4_CU2</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">Ni<sup>2+</sup>:XCCSQK3_NI</td>
+                            <td height="45px">Ni<sup>2+</sup>:XCCSQK4_NI</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">电导率：XCCSQK3_DDL μS/cm</td>
+                            <td height="45px">电导率：XCCSQK4_DDL μS/cm</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">XCCSQK5_MC</td>
+                            <td height="45px">XCCSQK6_MC</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">pH:XCCSQK5_PH</td>
+                            <td height="45px">pH:XCCSQK6_PH</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">Cu<sup>2+</sup>:XCCSQK5_CU2</td>
+                            <td height="45px">Cu<sup>2+</sup>:XCCSQK6_CU2</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">Ni<sup>2+</sup>:XCCSQK5_NI</td>
+                            <td height="45px">Ni<sup>2+</sup>:XCCSQK6_NI</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">电导率：XCCSQK5_DDL μS/cm</td>
+                            <td height="45px">电导率：XCCSQK6_DDL μS/cm</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">现场采样情况</td>
+                            <td height="45px" colspan="2">XCCYQK</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="1">六、环保档案</td>
+                            <td height="45px" align="center">环保档案建设情况</td>
+                            <td height="45px" colspan="2">HBDAQK</td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" height="140px" valign="top"> 七、其他情况 <br/>QTQK</td>
+                        </tr>
+                        
+                        <tr>
+                            <td colspan="4"  height="400px" valign="top">八、存在问题汇总<br /> CZWTHZ</td>
+                        </tr>
+                        <tr>
+                            <td   colspan="4" valign="top" height="400px">九、现场监察结论<br />XCJCJL</td>
+                        </tr>
+                        
+                        <tr>
+                            <td colspan="4" height="50px">
+                                <table width="100%" height="100%">
+                                    <tr>
+                                        <td width="40%">现场检查人员:</td>
+                                        <td width="40%">执法证号：</td>
+                                        <td width="5%">年</td>
+                                        <td width="5%">月</td>
+                                        <td width="5%">日</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" height="70px">
+                                <table width="100%" height="100%">
+                                    <tr>
+                                        <td width="40%">现场负责人：</td>
+                                        <td width="40%">职务：</td>
+                                        <td colspan="3"></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="40%">身份证号码：</td>
+                                        <td width="40%">电话：</td>
+                                        <td width="5%">年</td>
+                                        <td width="5%">月</td>
+                                        <td width="5%">日</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

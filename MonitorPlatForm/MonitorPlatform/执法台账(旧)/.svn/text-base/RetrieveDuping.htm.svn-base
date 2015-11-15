@@ -1,0 +1,664 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>深圳市环境监察支队</title>
+    </head>
+    <body>
+        <table width="740px" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td height="100px">
+                    <p align=center><font face="黑体" size="+2">深圳市环境监察支队</font></p>
+                    <p align=center><strong><font face="黑体" size="+3">危险废物填埋场现场核查表</font></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table width="100%" border="1" align="center" bordercolor="black" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td height="45px" align="center" colspan="2">被检查单位</td>
+                            <td height="45px" colspan="4">DWMC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center" colspan="2">地址</td>
+                            <td height="45px" colspan="4">DWDZ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2" align="center">法人代表（负责人）</td>
+                            <td height="45px" width="15%">LRR</td>
+                            <td height="45px" width="20%" align="center">环保联系人及电话</td>
+                            <td height="45px" width="30%" colspan="2">HBLXR,HBLXRDH</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="2" align="center">检查时间</td>
+                            <td width="15%" colspan="4">DCSJ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center" colspan="2">执法证件</td>
+                            <td height="45px" colspan="4"> </td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center" colspan="2">告知当事人有申请回避的权利和配合调查的义务</td>
+                            <td height="45px" colspan="4">GZHB</td>
+                            
+                        </tr>
+                        <tr >
+                            <td height="45px" align="center" colspan="2">监管性质</td>
+                            <td height="45px" colspan="4" border="0">JGXZ</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="19">企业基本情况</td>
+                            <td width="20%" align="center" height="45px">是否有未经环评审批的项目</td>
+                            <td height="45px" colspan="4">SFWJHPXM</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" height="45px" align="center">是否执行环保“三同时”</td>
+                            <td height="45px" colspan="4">SFZXHBSTS</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" height="45px" align="center">是否有未经环保验收投产情况</td>
+                            <td height="45px" colspan="4">SFWJHPYSTC</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" height="50px" align="center">是否持有危险废物经营许可证</td>
+                            <td height="50px" colspan="4">SFCYWXFWXKZ</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" height="50px" align="center">危险废物经营许可<br>证有效期</td>
+                            <td height="50px" colspan="4">WXFWJYXKZYXQKS至 WXFWJYXKZYXQJS</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" height="45px" align="center">规范化验收</td>
+                            <td height="30px" colspan="4">GFHYSZS</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" rowspan="4" align="center">排污许可证情况</td>
+                            <td height="45px" align="center">是否拥有排污许可证</td>
+                            <td colspan="3">PWXKZQK_YW</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否年审</td>
+                            <td colspan="3">PWXKZQK_NS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否在有效期内</td>
+                            <td colspan="3">PWXKZQK_YXQ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否吊证</td>
+                            <td colspan="3">PWXKZQK_DZ</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" align="center" rowspan="3">主要污染控制因子</td>
+                            <td height="45px" colspan="4">废水:WRYZ_FS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="4">废气:WRYZ_FQ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="4">噪声:WRYZ_ZS</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" align="center" rowspan="3">执行标准</td>
+                            <td height="45px" colspan="4">废水:ZXBZ_FS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="4">废气:ZXBZ_FQ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="4">噪声:ZXBZ_ZS</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" height="45px" align="center">废水许可排放量</td>
+                            <td colspan="4" height="45px">FSXKPFL(T/D)</td>
+                        </tr>
+                        <tr>
+                            <td width="140px" height="45px" align="center">设计填埋面积</td>
+                            <td colspan="4" height="45px">SJTMMJ(㎡)</td>
+                        </tr>
+                        <tr>
+                            <td width="20%" height="45px" align="center">设计填埋总量</td>
+                            <td colspan="4" height="45px">SJTMZL(T)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="6" height="45px">核查时段: HCKSSJ 至HCJSSJ</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="2">一、危险废物收集运输情况</td>
+                            <td height="45px" align="center">运输车辆标示</td>
+                            <td colspan="4">YSCLBS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">车辆持有交通部门颁发的危险废物运输资质</td>
+                            <td colspan="4">SFJYWXFWYSJZ</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="12">二、危险废物分检贮存情况</td>
+                            <td height="45px" align="center">危险废物分检操作规程</td>
+                            <td height="45px" colspan="4">WXFWFJCZGC</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" align="center">运行记录情况</td>
+                            <td height="45px" align="center">规范性</td>
+                            <td height="45px" colspan="3">WFYXJLGFX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">逻辑合理性</td>
+                            <td height="45px" colspan="3">WFYXJLLZHLX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">分区分类贮存</td>
+                            <td height="45px" colspan="4">FQFLZC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">“三防”措施</td>
+                            <td height="45px" colspan="4">SFCS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">警示标牌、标识</td>
+                            <td height="45px" colspan="4">JSBPBS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" rowspan="6" align="center">核查时段内危险废物接收分检情况</td>
+                            <td height="45px" align="center">类别</td>
+                            <td height="45px" align="center">接收量</td>
+                            <td height="45px" align="center">二次转移量</td>
+                            <td height="45px" align="center">暂存量</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">LB1<br></td>
+                            <td height="45px">JSL1T</td>
+                            <td height="45px">ECZYL1T</td>
+                            <td height="45px">ZCL1T</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">LB2<br></td>
+                            <td height="45px">JSL2T</td>
+                            <td height="45px">ECZYL2T</td>
+                            <td height="45px">ZCL2T</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">LB3<br></td>
+                            <td height="45px">JSL3T</td>
+                            <td height="45px">ECZYL3T</td>
+                            <td height="45px">ZCL3T</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">LB4<br></td>
+                            <td height="45px">JSL4T</td>
+                            <td height="45px">ECZYL4T</td>
+                            <td height="45px">ZCL4T</td>
+                        </tr>
+                        <tr align="center">
+                            <td height="45px">LB5<br></td>
+                            <td height="45px">JSL5T</td>
+                            <td height="45px">ECZYL5T</td>
+                            <td height="45px">ZCL5T</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="18">三、稳定化固化情况</td>
+                            <td height="45px" align="center">浸出毒性检测</td>
+                            <td height="45px" colspan="4">JCDXJC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">危险废物稳定化固化设施设计处理能力</td>
+                            <td height="45px" colspan="4">WDHGHSXSJCLNL T/D</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">核查时段内危险废物稳定化固化量</td>
+                            <td height="45px" colspan="4">WXFWWDHGHL T</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">稳定化固化作业规程</td>
+                            <td height="45px" colspan="4">WDHGHZYGC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">养护作业规程</td>
+                            <td height="45px" colspan="4">YHZYGC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" rowspan="2" align="center">运行记录情况</td>
+                            <td height="45px" align="center">规范性</td>
+                            <td height="45px" colspan="3">WDHGHGFX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">逻辑合理性</td>
+                            <td height="45px" colspan="3">WDHGHLZHLX</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="11">核查时段内稳定化固化药剂使用情况</td>
+                            <td align="center" height="45px" colspan="2">药剂名称</td>
+                            <td align="center" height="45px" colspan="2">总用量（T）</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2"> WDHGHYJNC1</td>
+                            <td align="center" height="45px" colspan="2"> WDHGHYJ1</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC2<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ2<br></td>
+                            
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC3<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ3<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC4<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ4<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC5<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ5<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC6<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ6<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC7<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ7<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC8<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ8<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC9<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ9<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">WDHGHYJNC0<br></td>
+                            <td align="center" height="45px" colspan="2">WDHGHYJ0<br></td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="5">四、填埋情况</td>
+                            <td height="45px" align="center">填埋设施设计处理能力</td>
+                            <td height="45px" colspan="4">TMSSSJCLNL T/D</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">核查时段内污泥填<br>埋总量</td>
+                            <td height="45px" colspan="4">HCSDNWNTMZL T</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">填埋作业规程</td>
+                            <td colspan="4">TMZYGC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" rowspan="2" align="center">运行记录情况</td>
+                            <td height="45px" align="center">规范性</td>
+                            <td height="45px" colspan="3">TMYXJLGFX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">逻辑合理性</td>
+                            <td height="45px" colspan="3">TMYXJLLZHLX</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="57">五、渗滤液处理情况</td>
+                            <td height="45px" align="center">渗滤液处理设施设计处理能力</td>
+                            <td height="45px" colspan="4">CLYCLSXSJCLNL T/D</td>
+                        </tr>
+                        <tr>
+                            <td height="45" align="center">核查时段内渗滤液<br>处理量</td>
+                            <td height="45px" colspan="4">HCSDNCLYCLL T</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">渗滤液处理作业规程</td>
+                            <td height="45px" colspan="4">CLYCLZYGC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center" rowspan="2">运行记录情况</td>
+                            <td height="45px" align="center">规范性</td>
+                            <td height="45px" colspan="3">CLYYXJLGFX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">逻辑合理性</td>
+                            <td height="45px" colspan="3">CLYYXJLLJHLX</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="11">核查时段内渗滤液处理药剂使用情况</td>
+                            <td align="center" height="45px" colspan="2">药剂名称</td>
+                            <td align="center" height="45px" colspan="2">总用量（T）</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC1<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL1<br></td>
+                            
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC2<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL2<br></td>
+                            
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC3<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL3<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC4<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL4<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC5<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL5<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC6<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL6<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC7<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL7<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC8<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL8</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC9<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL9<br></td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px" colspan="2">CLYCLYJNC0<br></td>
+                            <td align="center" height="45px" colspan="2">CLYCLYJL0<br></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="5" align="center">在线监控设备安装或计量装置、运行情况</td>
+                            <td colspan="4" height="45px">LLJAZQK</td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" height="45px">PHJYXQK</td>
+                        </tr>
+                        <tr>
+                            <td colspan="4" height="45px">CODJYXQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">在线监测系统是否验收及有效性审核</td>
+                            <td height="45px" colspan="3">ZXJCXTSFYSJYXX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">在线数据与监测报告数据是否一致</td>
+                            <td height="45px" colspan="3">ZXSJYJCBGSJSFYZ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">规范排污口</td>
+                            <td height="45px" colspan="4">GFPWK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">总排口标识牌</td>
+                            <td height="45px" colspan="4">ZPKBXP</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">总排口排水情况</td>
+                            <td height="45px" colspan="4">ZPKPSQK</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="2">总排口流量计读数</td>
+                            <td height="45px" colspan="4">总排口计量装置上次归零时间 ZPKJLZZSCGLSJ</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="4">本次检查时读数 BCJCSDS</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="7" align="center">现场采样情况</td>
+                            <td colspan="4" height="45px">采样个数 CYGS</td>
+                        </tr>
+                        <tr align="center">
+                            <td colspan="2" height="45px">样品编号</td>
+                            <td colspan="2" height="45px">采样位置</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td colspan="2" height="45px">YPBH1<br></td>
+                            <td colspan="2" height="45px">CYWZ1<br></td>
+                        </tr>
+                        <tr  align="center" >
+                            <td colspan="2" height="45px">YPBH2<br></td>
+                            <td colspan="2" height="45px">CYWZ2<br></td>
+                        </tr>
+                        <tr  align="center" >
+                            <td colspan="2" height="45px">YPBH3<br></td>
+                            <td colspan="2" height="45px">CYWZ3</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td colspan="2" height="45px">YPBH4<br></td>
+                            <td colspan="2" height="45px">CYWZ4<br></td>
+                        </tr>
+                        <tr  align="center" >
+                            <td colspan="2" height="45px">YPBH5<br></td>
+                            <td colspan="2" height="45px">CYWZ5<br></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="16" align="center">用水量情况</td>
+                            <td align="center"> </td>
+                            <td align="center">编号</td>
+                            <td align="center">更换时间</td>
+                            <td align="center">本次核查读数</td>
+                        </tr>
+                        <tr align="center" valign="middle">
+                            <td height="45px" rowspan="5">工业用水水表个数</td>
+                            <td height="45px">GYYSSBBH1</td>
+                            <td height="45px">GYYSSBGHSJ1</td>
+                            <td height="45px">GYYSSBBCHCDS1</td>
+                        </tr>
+                        <tr  align="center">
+                            <td height="45px">GYYSSBBH2</td>
+                            <td height="45px">GYYSSBGHSJ2</td>
+                            <td height="45px">GYYSSBBCHCDS2</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">GYYSSBBH3</td>
+                            <td height="45px">GYYSSBGHSJ3</td>
+                            <td height="45px">GYYSSBBCHCDS3</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">GYYSSBBH4</td>
+                            <td height="45px">GYYSSBGHSJ4</td>
+                            <td height="45px">GYYSSBBCHCDS4</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">GYYSSBBH5</td>
+                            <td height="45px">GYYSSBGHSJ5</td>
+                            <td height="45px">GYYSSBBCHCDS5</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px" rowspan="5">生活用水水表个数</td>
+                            <td height="45px" width="120px">SHYSSBBH1</td>
+                            <td height="45px" width="120px">SHYSSBGHSJ1</td>
+                            <td height="45px" width="120px">SHYSSBBCHCDS1</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">SHYSSBBH2</td>
+                            <td height="45px">SHYSSBGHSJ2</td>
+                            <td height="45px">SHYSSBBCHCDS2</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">SHYSSBBH3</td>
+                            <td height="45px">SHYSSBGHSJ3</td>
+                            <td height="45px">SHYSSBBCHCDS3</td>
+                        </tr>
+                        <tr  align="center">
+                            <td height="45px">SHYSSBBH4</td>
+                            <td height="45px">SHYSSBGHSJ4</td>
+                            <td height="45px">SHYSSBBCHCDS4</td>
+                        </tr>
+                        <tr  align="center">
+                            <td height="45px">SHYSSBBH5</td>
+                            <td height="45px">SHYSSBGHSJ5</td>
+                            <td height="45px">SHYSSBBCHCDS5</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px" rowspan="5">消防用水水表个数</td>
+                            <td height="45px">XFYSSBBH1</td>
+                            <td height="45px">XFYSSBGHSJ1</td>
+                            <td height="45px">XFYSSBBCHCDS1</td>
+                        </tr>
+                        
+                        <tr  align="center" >
+                            <td height="45px">XFYSSBBH2</td>
+                            <td height="45px">XFYSSBGHSJ2</td>
+                            <td height="45px">XFYSSBBCHCDS2</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">XFYSSBBH3</td>
+                            <td height="45px">XFYSSBGHSJ3</td>
+                            <td height="45px">XFYSSBBCHCDS3</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">XFYSSBBH4</td>
+                            <td height="45px">XFYSSBGHSJ4</td>
+                            <td height="45px">XFYSSBBCHCDS4</td>
+                        </tr>
+                        <tr  align="center" >
+                            <td height="45px">XFYSSBBH5</td>
+                            <td height="45px">XFYSSBGHSJ5</td>
+                            <td height="45px">XFYSSBBCHCDS5</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="4">废水回用情况</td>
+                            <td height="45px" colspan="4">FSHYQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center" rowspan="2">回用水计量装置安装情况</td>
+                            <td height="45px" colspan="3">进水:HYSJLZJACQKJSDS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" colspan="3">出水:HYSJLZJACQKCSDS</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">回用尾水（浓水）是否重新处理</td>
+                            <td height="45px" colspan="4">HYWSSFCXCL</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">观察井建设及水质情况</td>
+                            <td height="45px" colspan="4">GCJJSJSJQK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否建设有应急池</td>
+                            <td height="45px" colspan="4">SFJSYYJC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">应急池是否为空</td>
+                            <td height="45px" colspan="4">YJCSFWK</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">渗滤液</td>
+                            <td height="45px" align="center">是否按规范对渗滤液集水池的水位和水质进行监测</td>
+                            <td height="45px" colspan="3">SFAGFDCLYJSCSWSJJC</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="9">六、环境监测情况</td>
+                            <td rowspan="5" align="center">地下水</td>
+                            <td height="45px">是否按规范设置地下水监测井</td>
+                            <td colspan="3">SFAGFSJDXSJCJ (监测井个数 JCJGS个)</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">是否按规范定<br>期监测地下水<br>水质</td>
+                            <td height="45px"colspan="3">SFAGFDQJCDXSSJ(监测频次 JCPC月/次)</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">填埋场地下水<br>监测结果是否<br>存在异常</td>
+                            <td height="45px"colspan="3">TMCDXSJCJGSFCZYC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">地下水水质自<br>测是否每周进<br>行</td>
+                            <td height="45px"colspan="3">DXSSJZCSFMZJX</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">地下水水质自<br>测结果是否正<br>常</td>
+                            <td height="45px"colspan="3">DZSSJZCJGSFZC</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" align="center">大气</td>
+                            <td height="45px" align="center">是否按规范对厂界大气进行监测</td>
+                            <td height="45px"colspan="3">SFAGFDCJDQJXJC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">大气监测结果是否达标</td>
+                            <td height="45px"colspan="3">DQJCJGSFDB</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" align="center">噪声</td>
+                            <td height="45px" align="center">是否按规范对厂界噪声进行监测</td>
+                            <td height="45px"colspan="3">SFAGFDCJZSJXJC</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">噪声监测结果是否达标</td>
+                            <td height="45px"colspan="3">ZSJCJGSFDB</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="2">七、信访情况</td>
+                            <td height="45px" align="center">信访情况</td>
+                            <td height="45px" colspan="4">XFQK无信访</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">整改情况</td>
+                            <td height="45px" colspan="4">ZGQK</td>
+                        </tr>
+                        <tr>
+                            <td width="5%" align="center" rowspan="6">八、其他情况</td>
+                            <td height="45px" align="center">静态档案</td>
+                            <td height="45px" colspan="4">JTDA</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">动态档案</td>
+                            <td height="45px" colspan="4">DTDA</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">排污许可证持有情况</td>
+                            <td height="45px" colspan="4">PWXKZCYQK</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="3">环境安全事故应急事项</td>
+                            <td height="45px" align="center">应急预案</td>
+                            <td height="45px" colspan="3">YJYA</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">应急演练</td>
+                            <td height="45px" colspan="3">YJYL</td>
+                        </tr>
+                        <tr>
+                            <td height="45px" align="center">应急物资配备</td>
+                            <td height="45px" colspan="3">YJWZPB</td>
+                        </tr>
+                        <tr>
+                            <td height="400px" colspan="6" valign="top">九、存在问题汇总<br />CZWTHZ</td>
+                        </tr>
+                        <tr>
+                            <td height="400px"colspan="6" valign="top">十、核查结论及要求<br />HCJLJYQ</td>
+                        </tr>
+                        <tr>
+                            <td colspan="6" height="50px">
+                                <table width="100%" height="100%">
+                                    <tr>
+                                        <td width="40%">现场检查人员：XCJCRY</td>
+                                        <td width="40%">执法证号：ZFZH</td>
+                                        <td width="5%">年</td>
+                                        <td width="5%">月</td>
+                                        <td width="5%">日</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td colspan="6" height="70px">
+                                <table width="100%" height="100%">
+                                    <tr>
+                                        <td width="40%">现场负责人：</td>
+                                        <td width="40%">职务：</td>
+                                        <td colspan="3"></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2">身份证号码：</td>
+                                        <td width="5%">年</td>
+                                        <td width="5%">月</td>
+                                        <td width="5%">日</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,266 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>深圳市环境监察支队</title>
+    </head>
+    <body>
+        <table align="center" width="740" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td height="100px">
+                    <p align="center"><font face="黑体" size="+2">深圳市环境监察支队</font></p>
+                    <p align="center"><strong><font face="黑体" size="+3">污泥填埋处理行业现场核查表</font></strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table width="100%" border="1" align="center" bordercolor="black" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td height="40px" colspan="2" align="center">被检查单位</td>
+                            <td colspan="3">bjcdw</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" colspan="2" align="center">地址</td>
+                            <td height="40px" colspan="4">DZ</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center" height="40px">法人代表（负责人）</td>
+                            <td width="15%" height="40px">lxr</td>
+                            <td width="25%" align="center" height="40px">环保联系人及电话</td>
+                            <td width="30%" height="40px">HBLXR,HBLXRDH</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" colspan="2" align="center">检查时间</td>
+                            <td width="15%" colspan="3">jcsj</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" align="center" colspan="2">执法证件</td>
+                            <td height="40px" colspan="3">CSZFZ</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" align="center" colspan="2">告知当事人有申请回避的权利和配合调查的义务</td>
+                            <td height="40px" colspan="3">GZHB</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" height="40px" align="center" >监管性质</td>
+                            <td colspan="3" height="40px">JGXZ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="7%" rowspan="11">企业基本信息</td>
+                            <td align="center" height="40px">是否有未经环评审批的项目</td>
+                            <td height="40px" colspan="3">SFWJHPXM</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" align="center">是否执行环保“三同时”</td>
+                            <td height="40px" colspan="3">SFZXHBSTS</td>
+                        </tr>
+                        <tr>
+                            <td height="40px">是否有未经环保验收投产情况</td>
+                            <td height="40px" colspan="3">SFWJHPYSTC</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" align="center">是否持有排污许可证</td>
+                            <td height="40px" colspan="3">SFCYPWXKZ</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" align="center">排污许可证有效期</td>
+                            <td height="40px" colspan="3">PWXKZYXQ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="3">主要污染控制因子</td>
+                            <td height="40px" colspan="3">废水:WRYZ_FS</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" colspan="3">废气:WRYZ_FQ</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" colspan="3">噪声:WRYZ_ZS</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="3">执行标准</td>
+                            <td height="40px" colspan="3">废水:ZXBZ_FS</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" colspan="3">废气:ZXBZ_FQ</td>
+                        </tr>
+                        <tr>
+                            <td height="40px" colspan="3">噪声:ZXBZ_ZS</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px" colspan="2">设计污泥填埋面积</td>
+                            <td height="40px" colspan="3">SJWNMJ ㎡</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px" colspan="2">设计污泥填埋总量</td>
+                            <td height="40px" colspan="3">SJWNZL T</td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2" height="40px">核查时段</td>
+                            <td colspan="3" height="40px">HCJSSJ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="6">一、臭氧控制情况</td>
+                            <td align="center" height="40px">填埋作业面是否控制在规定范围</td>
+                            <td height="40px" colspan="3">TMZYMSFKZ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">除臭工作是否按要求进行</td>
+                            <td height="40px" colspan="3">CCSFAYQJX</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">所使用除臭剂浓度</td>
+                            <td height="40px" colspan="3">CCJND</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">除臭剂使用量</td>
+                            <td height="40px" colspan="3">CCJSYL</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">臭气是否按规范监测</td>
+                            <td height="40px" colspan="3">CQSFAGFJC规范</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">臭气监测结果是否达标</td>
+                            <td height="40px" colspan="3">CQJCSFDB</td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="7%" rowspan="4">二、固化处理情况</td>
+                            <td align="center" height="40px">污泥填埋总量</td>
+                            <td height="40px" colspan="3">WNTMZL</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">水泥使用量</td>
+                            <td height="40px" colspan="3">SNSYL</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">固化剂使用量</td>
+                            <td height="40px" colspan="3">GHJSYL</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">收运台账原始记录是否齐全</td>
+                            <td height="40px" colspan="3">SYTZYSJLSFQQ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="7%" rowspan="7">三、尾水处理设施情况</td>
+                            <td align="center" height="40px">是否建有尾水处理设施</td>
+                            <td colspan="3">SFJYWSCLSS</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">尾水处理设施设计处理能力</td>
+                            <td colspan="3">WSSSCLNN T/D</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">尾水处理总量</td>
+                            <td colspan="3">WSCLCL T</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">各处理单元设备故障、维护报告次数</td>
+                            <td colspan="3">CLSSGZWHCS</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">各处理单元设备故障报告、维护情况是否与报告一致</td>
+                            <td colspan="3">CLSSGZWHSFYBGYZ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="2">出口在线监测情况</td>
+                            <td align="center">在线系统是否正常运行</td>
+                            <td colspan="2">CKJC_XTSFZCYX</td>
+                        </tr>
+                        <tr>
+                            <td align="center">排放污染物浓度是否达标</td>
+                            <td colspan="2">CKJC_WRYNDSFDB</td>
+                        </tr>
+                        <tr>
+                            <td align="center" rowspan="5">四、环境安全落实情况</td>
+                            <td align="center" height="40px">是否按要求悬挂安全警示标识</td>
+                            <td colspan="3">SFAYQXGAQJSBS</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">对可能涉及危险的处理设施的操作平台、走廊等是否设置防护栏栏栅或盖板</td>
+                            <td colspan="3">WXSSSFSZFHL</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px">是否建立环境安全管理制度和操作规范</td>
+                            <td colspan="3">SFJLHJAQZD</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px">是否建立环境安全事故应急预案</td>
+                            <td colspan="3">SFJLHJAQYJYA</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">是否配备必要的应急和救援物质</td>
+                            <td colspan="3">SFPBBYYJHJYWZ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="7%" rowspan="3">五、环境档案建设情况</td>
+                            <td align="center" height="40px">静态档案</td>
+                            <td colspan="3">JTDA</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">动态档案</td>
+                            <td colspan="3">DTDA</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="40px">排污许可证持有情况</td>
+                            <td colspan="3">PWXKCYQK</td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="7%" rowspan="4">六、地下水监测情况</td>
+                            <td align="center" height="45px">地下水监测井设置是否规范</td>
+                            <td colspan="3">DXSJCSFGF</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px">地下水水质监测是否规范</td>
+                            <td colspan="3">DXSSZJCSFGF</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px">地下水监测结果是否正常</td>
+                            <td colspan="3">DXSJCJGSFCZ</td>
+                        </tr>
+                        <tr>
+                            <td align="center" height="45px">水质自测结果是否正常</td>
+                            <td colspan="3">SZZCJGSFZC</td>
+                        </tr>       
+                        <tr>
+                            <td colspan="5" height="400px" align="left" valign="top">七、存在问题汇总CZWTHZ
+                                <br/>
+                                <br/>ZTBZYCNY
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" height="400px"  align="left" valign="top">八、监察结论及要求JCJLJYQ<br /><br />ZTBZZCNY</td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" height="50px">
+                                <table width="100%" height="100%">
+                                    <tr>
+                                        <td width="40%">现场检查人员：xcjcry</td>
+                                        <td width="40%">执法证号：ZFZH</td>
+                                        <td width="5%">年</td>
+                                        <td width="5%">月</td>
+                                        <td width="5%">日</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="50px" colspan="5"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td width="40%">现场负责人：</td>
+                                    <td width="40%">职务：</td>
+                                    <td colspan="3"></td>
+                                </tr>
+                                <tr>
+                                    <td width="40%">身份证号码：</td>
+                                    <td width="40%">电话：</td>
+                                    <td width="5%">年</td>
+                                    <td width="5%">月</td>
+                                    <td width="5%">日</td>
+                                </tr>
+                            </table></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

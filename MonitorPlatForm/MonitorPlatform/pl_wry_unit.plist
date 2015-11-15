@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>values</key>
+	<dict>
+		<key>深圳市东深水源保护办公室</key>
+		<string>440309</string>
+		<key>深圳市环境监察支队</key>
+		<string>440301</string>
+		<key>深圳市福田区环境水务监察队</key>
+		<string>440304</string>
+		<key>深圳市罗湖区环境监察大队</key>
+		<string>440303</string>
+		<key>深圳市南山区环境保护监理所</key>
+		<string>440305</string>
+		<key>深圳市盐田区环境保护和税务局</key>
+		<string>440308</string>
+		<key>深圳市宝安区环境保护和水政监察大队</key>
+		<string>440306</string>
+		<key>深圳市龙岗区环境和水政监察大队</key>
+		<string>440307</string>
+		<key>深圳市坪山新区环境监察大队</key>
+		<string>440310</string>
+		<key>深圳市光明新区城市建设局</key>
+		<string>440302</string>
+	</dict>
+	<key>keys</key>
+	<array>
+		<string>深圳市东深水源保护办公室</string>
+		<string>深圳市环境监察支队</string>
+		<string>深圳市福田区环境水务监察队</string>
+		<string>深圳市罗湖区环境监察大队</string>
+		<string>深圳市南山区环境保护监理所</string>
+		<string>深圳市盐田区环境保护和税务局</string>
+		<string>深圳市宝安区环境保护和水政监察大队</string>
+		<string>深圳市龙岗区环境和水政监察大队</string>
+		<string>深圳市坪山新区环境监察大队</string>
+		<string>深圳市光明新区城市建设局</string>
+	</array>
+</dict>
+</plist>

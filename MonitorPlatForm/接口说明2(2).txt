@@ -1,0 +1,110 @@
+// 固废转移情况按类型统计
+GET_GFGL_GFGLALXTJ
+参数 开始时间：kssj , 结束时间：jssj
+
+// 固废转移情况按单位统计
+GET_GFGL_GFGLADWTJ
+参数 开始时间：kssj , 结束时间：jssj
+
+// 三同时
+GET_JCGL_STSTJ
+参数 开始时间：kssj , 结束时间：jssj
+
+// 行政处罚按月份统计 
+GET_XZCF_XZCFAYFTJ
+参数 开始时间：kssj , 结束时间：jssj  时间默认会把天数去掉。请格式为 ：2012-9-8
+
+// 行政处罚按部门统计
+GET_XZCF_XZCFABMTJ
+参数 开始时间：kssj , 结束时间：jssj  时间默认会把天数去掉。请格式为 ：2012-9-8
+
+// 建筑工地统计
+GET_JCGL_JZSGTJ 
+参数 开始时间：kssj , 结束时间：jssj
+
+// 噪声许可按月统计 
+GET_JCGL_ZSXKAYTJ 
+参数 开始时间：kssj , 结束时间：jssj
+
+// 噪声许可按部门统计  
+GET_JCGL_ZSXKABMTJ
+参数 开始时间：kssj , 结束时间：jssj
+
+// 在线监测超标统计 
+GET_YDZF_ZXJCCBTJ 
+参数 当前月份：dqyf 格式“2012-6”
+
+// 排污收费按月份统计 
+GET_JCGL_PWSFAYFTJ
+参数 当前年：jnsj 格式“2012” 去年：qnsj 格式“2011”
+
+// 排污收费按部门统计 
+GET_JCGL_PWSFABMTJ
+参数 开始时间：kssj , 结束时间：jssj  系统会自动根据时间自动算出去年时间
+
+// 信访分析按上年统计 
+GET_HJXF_HJXFASNTJ
+参数 开始时间：kssj , 结束时间：jssj 格式 kssj=2012-1&jssj=2012-09
+
+// 信访分析按类型统计 
+GET_HJXF_HJXFALXTJ
+参数 开始时间：kssj , 结束时间：jssj
+
+// 信访分析按区域统计 
+GET_HJXF_HJXFAQYTJ
+参数 开始时间：kssj , 结束时间：jssj
+
+
+
+
+
+
+
+
+// 已办行政处罚增加处罚决定书信息服务
+GET_CFJDS_DETAIL
+参数 办文编号：bwbh
+
+// 已办噪声许可列表服务 （未完成）
+GET_ZSXK_INFO_LIST
+参数 用户编号：yhid，pageSize，currentPage,后面是查询条件：rwxx（任务信息），lczt（流程完成情况，正常还是超时还是全部），kssj，jssj
+
+// 增加噪声许可详情服务 
+GET_ZSXK_DETAIL
+参数 噪声许可编号：sqdjbh
+
+// 信访任务台账列表
+GET_XFTS_INFO_LIST
+参数 
+
+// 噪声许可台账列表 （未完成）
+GET_ZSXK_INFO_LIST
+参数： pageSize，currentPage,后面是查询条件：rwxx（任务信息，），lczt（流程完成情况，正常还是超时还是全部），kssj，jssj
+
+// 行政处罚台账列表
+GET_XZCF_INFO_LIST
+参数 pageSize，currentPage，案件信息BLNR，这个参数like的东西我截图发给你了；开始时间KSSJ；结束时间JSSJ
+
+// 建筑工程项目列表
+QUERY_GCXM_INFO_LIST
+参数 pageSize,currentPage,后面的是查询条件参数：gxgs（管辖归属）,gcxx（工程信息关键字）,kssj,jssj,gcxx这个参数用来like 字符串"工程项目名称+建设单位+施工单位+施工场地地址"
+
+// 建筑工程项目详情
+QUERY_GCXM_INFO_DETAIL
+参数 建筑工程编号:gcxmsbdjh
+
+// 施工单位列表
+QUERY_SGDW_INFO_LIST
+参数 pageSize，pageSize,currentPage,后面的是查询条件参数：gxgs（管辖归属）,dwxx（单位信息）
+dwxx这个参数用来like 字符串“施工单位名称+施工单位地址+施工单位法人代表”
+
+
+
+存在的问题
+GET_HJXF_HJXFASNTJ 按月份给给了超出月份的数据
+
+
+
+
+
+

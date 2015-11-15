@@ -1,0 +1,68 @@
+//
+// Prefix header for all source files of the 'MonitorPlatform' target in the 'MonitorPlatform' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <MapKit/MapKit.h>
+#endif
+
+#define PageSize 50
+#define LIGHT_BLUE_UICOLOR [UIColor colorWithRed:238.0f/255.0 green:244.0f/255.0 blue:255.0f/255.0 alpha:1.0f]
+#define CELL_HEADER_COLOR [UIColor colorWithRed:0.530f green:0.600f blue:0.738f alpha:1.000f]
+
+#define CELL_HEADER_COLOR2 [UIColor colorWithRed:(0xae/255.0f) green:(0x8b/255.0f) blue:(0x47/255.0f) alpha:1.0]
+#define LIGHT_BLUE_UICOLOR2 [UIColor colorWithRed:(0xf2/255.0f) green:(0xf0/255.0f) blue:(0xec/255.0f) alpha:1.0]
+#define SELECT_UICOLOR [UIColor colorWithRed:(0xa8/255.0f) green:(0xa4/255.0f) blue:(0x9b/255.0f) alpha:1.0]
+
+#define kUser         @"user"
+#define kPwd          @"pwd"
+#define kSavePwd      @"savePwd"
+
+
+#define kLastSyncDate @"LastSyncDate"
+
+#define kLastVersion @"kLastVersion" //上一个版本
+#define kLoginSyncDate @"LoginSyncDate"
+
+//数据同步完毕
+#define kNotifyDataSyncFininshed @"DataSyncFinished"
+#define kNotifyDataSyncFailed    @"kNotifyDataSyncFailed"
+
+#define OA_URL @"http://%@/OAService.asmx"
+#define XF_URL @"http://%@/ebcmjczd/invoke?version=1&imei=ipad"
+#define XZCF_URL @"http://%@/ebcmsz/invoke?version=1&imei=ipad&"
+#define TJFZ_URL @"http://%@/ebcmjczd/invoke?version=1&imei=ipad"
+/*
+#define WRYJBXX_URL @"http://%@/MobileLawService_NewJCPT/Wry_Jbxx.asmx"
+#define WRYCFTZ_URL @"http://%@/MobileLawService_NewJCPT/Wry_Xzfc.asmx"
+#define WRYPWSB_URL @"http://%@/MobileLawService_NewJCPT/Wry_pwsb.asmx"
+#define WRYPWXKZ_URL @"http://%@/MobileLawService_NewJCPT/Wry_Pwxkz.asmx"
+#define HJJC_URL    @"http://%@/MobileLawService_NewJCPT/Wry_hjjc.asmx"
+#define MapNavigation_URL    @"http://%@/MobileLawService_NewJCPT/MapNavigation.asmx" //正式
+#define RECORD_URL  @"http://%@/MobileLawService_NewJCPT/InspectionRecordService.asmx"
+#define SOLIDLIKAGE_URL  @"http://%@/MobileLawService_NewJCPT/SolidLinkage.asmx"
+#define OnLineControl_URL  @"http://%@/MobileLawService_NewJCPT/OnLineControl.asmx"
+*/
+
+#define WRYJBXX_URL @"http://%@/MobileLawService_JCPT/Wry_Jbxx.asmx"
+#define WRYCFTZ_URL @"http://%@/MobileLawService_JCPT/Wry_Xzfc.asmx"
+#define WRYPWSB_URL @"http://%@/MobileLawService_JCPT/Wry_pwsb.asmx"
+#define WRYPWXKZ_URL @"http://%@/MobileLawService_JCPT/Wry_Pwxkz.asmx"
+#define HJJC_URL    @"http://%@/MobileLawService_JCPT/Wry_hjjc.asmx"
+#define MapNavigation_URL    @"http://%@/MobileLawService_JCPT/MapNavigation.asmx" //正式
+#define RECORD_URL  @"http://%@/MobileLawService_JCPT/InspectionRecordService.asmx"
+#define SOLIDLIKAGE_URL  @"http://%@/MobileLawService_JCPT/SolidLinkage.asmx"
+#define OnLineControl_URL  @"http://%@/MobileLawService_JCPT/OnLineControl.asmx"
+
+
+#define USER_INFO @"&userid=%@&password=%@"
+#define PARAM_DEFAULT @"&version=1&imei=ipad&yhid=%@&lcbh=%@"
+
